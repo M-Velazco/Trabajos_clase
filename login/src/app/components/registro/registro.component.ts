@@ -14,3 +14,5 @@ constructor() {}
 register() {
 console.log(this.email);
 console.log(this.password);}}
+
+
